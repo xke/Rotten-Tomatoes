@@ -10,7 +10,7 @@ Time spent: 13 hours
 - [X] User can view a list of movies. Poster images load asynchronously.
 - [X] User can view movie details by tapping on a cell.
 - [X] User sees loading state while waiting for the API.
-- [X] User sees error message when there is a network error
+- [X] User sees error message when there is a network error.
 - [X] User can pull to refresh the movie list.
 
 #### Optional Features
