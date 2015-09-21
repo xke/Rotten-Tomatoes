@@ -18,7 +18,7 @@ Time spent: 13 hours
 - [X] Add a search bar using UISearchBar.
 - [X] Customize the navigation bar.
 
-### Walkthrough
+#### Video Walkthrough
 ![Video Walkthrough](RottenTomatoesAnimated.gif)
 
 Credits
