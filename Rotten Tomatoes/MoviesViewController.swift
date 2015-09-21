@@ -140,7 +140,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         let cell = tableView.dequeueReusableCellWithIdentifier("MovieCell", forIndexPath: indexPath) as! MovieCell
         
         var movie : NSDictionary
-        if (searchActive) {
+        if (searchActive && filteredMovies.count > 0) {
             movie = filteredMovies[indexPath.row]
         } else {
             movie = movies![indexPath.row]

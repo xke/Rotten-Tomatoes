@@ -5,9 +5,7 @@ It's also the assignment for Week 1 of the [CodePath](http://www.codepath.com) i
 
 Time spent: 13 hours
 
-### Features
-
-#### Required
+#### Required Features
 
 - [X] User can view a list of movies. Poster images load asynchronously.
 - [X] User can view movie details by tapping on a cell.
@@ -15,7 +13,7 @@ Time spent: 13 hours
 - [X] User sees error message when there is a network error [sample](http://forums.androidcentral.com/attachments/google-nexus-10-tablet/51236d1355614625t-facebook-network-error-no-internet-connection-screenshot_2012-12-15-15-15-05.png)
 - [X] User can pull to refresh the movie list.
 
-#### Optional
+#### Optional Features
 
 - [X] Add a search bar using UISearchBar.
 - [X] Customize the navigation bar.

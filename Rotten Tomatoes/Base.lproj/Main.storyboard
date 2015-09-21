@@ -29,8 +29,8 @@
                                 </subviews>
                                 <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                             </view>
-                            <searchBar contentMode="redraw" id="6dq-J4-jjp">
-                                <rect key="frame" x="0.0" y="65" width="320" height="44"/>
+                            <searchBar contentMode="redraw" placeholder="Search" id="6dq-J4-jjp">
+                                <rect key="frame" x="0.0" y="62" width="320" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <textInputTraits key="textInputTraits"/>
                             </searchBar>
